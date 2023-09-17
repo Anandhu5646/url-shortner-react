@@ -277,3 +277,16 @@
     font-size:1rem;
     margin-top: 50px;
 }
+
+
+@media (max-width:600px){
+    .container-url{
+        width: 90%;
+        margin-left: 20px;
+        overflow: hidden;
+    }
+    .header{
+        font-size: 43px;
+        margin-top: 170px;
+    }
+}

@@ -9,7 +9,7 @@ const UrlShortner = ({ setInputValue }) => {
     setValue("")
   }
   return (
-    <div>
+    <div className="container-url">
       <div className="header">
         <h1>
           URL <span>Shortner</span>
